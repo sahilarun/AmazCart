@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "709818571440",
+    "project_id": "amazcart-341610",
+    "storage_bucket": "amazcart-341610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709818571440:android:b6e5ab88e464eedd9c3975",
+        "android_client_info": {
+          "package_name": "com.amazcart.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709818571440-5k62lpm2jabhq6ash1aak83falf7e0us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amazcart.app",
+            "certificate_hash": "14f89ff51ff906ba1595d86f4e617a17f51d4c68"
+          }
+        },
+        {
+          "client_id": "709818571440-ikqf1tp9cnj919ropc94eki3v9qvnk6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amazcart.app",
+            "certificate_hash": "eb300a7c988ed95bc4a74f393c9a8fdfcb5f5822"
+          }
+        },
+        {
+          "client_id": "709818571440-pq2vd5sojijmam6r5ctg404hf2si0q0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpd8vWvIUl24C8A8CeRxK2hRQdSVz4FMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709818571440-92ke8uht7h8o3m4kgbasldtd0pb3ke52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709818571440-2mv014jl4akgu7n0pcod4k188bvpbam9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zoyeedigitals.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709818571440:android:05bdbc2b7fd3612e9c3975",
+        "android_client_info": {
+          "package_name": "com.amazy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709818571440-aiavvh2ajd457qchlq60t8p7pnrc9c94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amazy.app",
+            "certificate_hash": "eb300a7c988ed95bc4a74f393c9a8fdfcb5f5822"
+          }
+        },
+        {
+          "client_id": "709818571440-pq2vd5sojijmam6r5ctg404hf2si0q0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpd8vWvIUl24C8A8CeRxK2hRQdSVz4FMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709818571440-92ke8uht7h8o3m4kgbasldtd0pb3ke52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709818571440-2mv014jl4akgu7n0pcod4k188bvpbam9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zoyeedigitals.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
